@@ -1,0 +1,71 @@
+[Tue Mar 24 15:24:35.122044 2015] [mpm_winnt:notice] [pid 5444:tid 532] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Tue Mar 24 15:24:35.122044 2015] [mpm_winnt:notice] [pid 5444:tid 532] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Tue Mar 24 15:24:35.122044 2015] [core:notice] [pid 5444:tid 532] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Tue Mar 24 15:24:35.123046 2015] [mpm_winnt:notice] [pid 5444:tid 532] AH00418: Parent: Created child process 8356
+[Tue Mar 24 15:24:35.458208 2015] [mpm_winnt:notice] [pid 8356:tid 440] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 27 10:11:31.998742 2015] [mpm_winnt:notice] [pid 5444:tid 532] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 27 10:11:37.064875 2015] [mpm_winnt:notice] [pid 8356:tid 440] AH00364: Child: All worker threads have exited.
+[Fri Mar 27 10:11:42.495217 2015] [mpm_winnt:notice] [pid 5444:tid 532] AH00430: Parent: Child process 8356 exited successfully.
+[Fri Mar 27 17:27:33.563604 2015] [mpm_winnt:notice] [pid 2880:tid 528] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Fri Mar 27 17:27:33.584201 2015] [mpm_winnt:notice] [pid 2880:tid 528] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Mar 27 17:27:33.584201 2015] [core:notice] [pid 2880:tid 528] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Mar 27 17:27:33.601186 2015] [mpm_winnt:notice] [pid 2880:tid 528] AH00418: Parent: Created child process 8124
+[Fri Mar 27 17:27:33.845248 2015] [mpm_winnt:notice] [pid 8124:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sat Mar 28 16:39:44.097366 2015] [mpm_winnt:notice] [pid 2880:tid 528] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 28 16:39:46.147081 2015] [mpm_winnt:notice] [pid 8124:tid 448] AH00364: Child: All worker threads have exited.
+[Sat Mar 28 16:39:51.010792 2015] [mpm_winnt:notice] [pid 2880:tid 528] AH00430: Parent: Child process 8124 exited successfully.
+[Sun Mar 29 13:07:18.515985 2015] [mpm_winnt:notice] [pid 8520:tid 544] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Sun Mar 29 13:07:18.516985 2015] [mpm_winnt:notice] [pid 8520:tid 544] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Sun Mar 29 13:07:18.516985 2015] [core:notice] [pid 8520:tid 544] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Sun Mar 29 13:07:18.516985 2015] [mpm_winnt:notice] [pid 8520:tid 544] AH00418: Parent: Created child process 5688
+[Sun Mar 29 13:07:18.736041 2015] [mpm_winnt:notice] [pid 5688:tid 436] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 30 15:49:16.098072 2015] [mpm_winnt:notice] [pid 8520:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 30 15:49:18.111880 2015] [mpm_winnt:notice] [pid 5688:tid 436] AH00364: Child: All worker threads have exited.
+[Mon Mar 30 15:49:18.483935 2015] [mpm_winnt:notice] [pid 8520:tid 544] AH00430: Parent: Child process 5688 exited successfully.
+[Mon Mar 30 15:49:24.171124 2015] [mpm_winnt:notice] [pid 9748:tid 536] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Mon Mar 30 15:49:24.172125 2015] [mpm_winnt:notice] [pid 9748:tid 536] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Mon Mar 30 15:49:24.172125 2015] [core:notice] [pid 9748:tid 536] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Mon Mar 30 15:49:24.172125 2015] [mpm_winnt:notice] [pid 9748:tid 536] AH00418: Parent: Created child process 3476
+[Mon Mar 30 15:49:24.407185 2015] [mpm_winnt:notice] [pid 3476:tid 456] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 31 22:04:56.160192 2015] [:error] [pid 3476:tid 944] [client ::1:63323] script 'C:/wamp/www/unstyling/index.php' not found or unable to stat
+[Wed Apr 01 13:24:21.308628 2015] [:error] [pid 3476:tid 928] [client ::1:55023] script 'C:/wamp/www/unstyling/yetagain.php' not found or unable to stat
+[Fri Apr 03 11:31:42.130978 2015] [authz_core:error] [pid 3476:tid 956] [client ::1:63889] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:31:42.131979 2015] [authz_core:error] [pid 3476:tid 952] [client ::1:63890] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:31:42.130978 2015] [authz_core:error] [pid 3476:tid 964] [client ::1:63888] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:31:42.131979 2015] [authz_core:error] [pid 3476:tid 944] [client ::1:63891] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:31:42.131979 2015] [authz_core:error] [pid 3476:tid 936] [client ::1:63892] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:52.758054 2015] [authz_core:error] [pid 3476:tid 952] [client ::1:63913] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:52.758054 2015] [authz_core:error] [pid 3476:tid 928] [client ::1:63912] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:52.758054 2015] [authz_core:error] [pid 3476:tid 936] [client ::1:63914] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:52.758054 2015] [authz_core:error] [pid 3476:tid 964] [client ::1:63915] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:52.759052 2015] [authz_core:error] [pid 3476:tid 944] [client ::1:63916] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:58.536101 2015] [authz_core:error] [pid 3476:tid 956] [client ::1:63917] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:58.537100 2015] [authz_core:error] [pid 3476:tid 944] [client ::1:63925] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:58.537100 2015] [authz_core:error] [pid 3476:tid 964] [client ::1:63926] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:58.538100 2015] [authz_core:error] [pid 3476:tid 928] [client ::1:63927] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:32:58.539100 2015] [authz_core:error] [pid 3476:tid 936] [client ::1:63928] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:33:19.949234 2015] [authz_core:error] [pid 3476:tid 952] [client ::1:63938] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:33:19.949234 2015] [authz_core:error] [pid 3476:tid 964] [client ::1:63949] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:33:19.949234 2015] [authz_core:error] [pid 3476:tid 944] [client ::1:63950] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:33:19.949234 2015] [authz_core:error] [pid 3476:tid 956] [client ::1:63951] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:33:19.952234 2015] [authz_core:error] [pid 3476:tid 928] [client ::1:63952] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:40:51.042171 2015] [:error] [pid 3476:tid 928] [client ::1:64478] script 'C:/wamp/www/phpinfo.php' not found or unable to stat
+[Fri Apr 03 11:41:22.904885 2015] [authz_core:error] [pid 3476:tid 936] [client ::1:64491] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:41:22.904885 2015] [authz_core:error] [pid 3476:tid 944] [client ::1:64492] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:41:22.904885 2015] [authz_core:error] [pid 3476:tid 964] [client ::1:64493] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:41:22.904885 2015] [authz_core:error] [pid 3476:tid 952] [client ::1:64494] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 11:41:22.904885 2015] [authz_core:error] [pid 3476:tid 956] [client ::1:64495] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 12:00:01.678817 2015] [authz_core:error] [pid 3476:tid 964] [client ::1:61245] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 12:00:01.678817 2015] [authz_core:error] [pid 3476:tid 944] [client ::1:61248] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 12:00:01.678817 2015] [authz_core:error] [pid 3476:tid 956] [client ::1:61246] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 12:00:01.679813 2015] [authz_core:error] [pid 3476:tid 952] [client ::1:61247] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 12:00:01.679813 2015] [authz_core:error] [pid 3476:tid 936] [client ::1:61249] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Fri Apr 03 12:00:08.136491 2015] [:error] [pid 3476:tid 928] [client ::1:61250] script 'C:/wamp/www/index.php' not found or unable to stat
+[Fri Apr 03 12:10:45.781657 2015] [mpm_winnt:notice] [pid 9748:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Apr 03 12:10:47.785075 2015] [mpm_winnt:notice] [pid 3476:tid 456] AH00364: Child: All worker threads have exited.
+[Fri Apr 03 12:10:48.482768 2015] [mpm_winnt:notice] [pid 9748:tid 536] AH00430: Parent: Child process 3476 exited successfully.
+[Fri Apr 03 12:13:11.983599 2015] [mpm_winnt:notice] [pid 760:tid 528] AH00455: Apache/2.4.9 (Win64) PHP/5.5.12 configured -- resuming normal operations
+[Fri Apr 03 12:13:11.983599 2015] [mpm_winnt:notice] [pid 760:tid 528] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:42:59
+[Fri Apr 03 12:13:11.983599 2015] [core:notice] [pid 760:tid 528] AH00094: Command line: 'c:\\wamp\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/wamp/bin/apache/apache2.4.9'
+[Fri Apr 03 12:13:11.984600 2015] [mpm_winnt:notice] [pid 760:tid 528] AH00418: Parent: Created child process 9880
+[Fri Apr 03 12:13:12.459537 2015] [mpm_winnt:notice] [pid 9880:tid 444] AH00354: Child: Starting 64 worker threads.
